@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+D:\Projects\Practica_anul3_1\proj\proj.Client\wwwroot\appsettings.Development.json
+D:\Projects\Practica_anul3_1\proj\proj.Client\wwwroot\appsettings.json

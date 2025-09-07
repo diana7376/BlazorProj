@@ -1,0 +1,6 @@
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.AssemblyInfo.cs
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj.Infrastructure\obj\Debug\net9.0\proj.Infrastructure.sourcelink.json

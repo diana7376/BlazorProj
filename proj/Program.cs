@@ -4,6 +4,7 @@ using proj.Client.Pages;
 using proj.Components;
 using proj.Components.Account;
 using proj.Data;
+using Proj.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,6 +37,14 @@ builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.Requ
 
 builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
+builder.Services.AddDbContext<projSQLContext>(options =>
+    options.UseSqlServer(connectionString, sql =>
+        sql.EnableRetryOnFailure(
+            maxRetryCount: 5,
+            maxRetryDelay: TimeSpan.FromSeconds(5),
+            errorNumbersToAdd: null))); // recommended pattern for transient errors [1][2][3]
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -63,5 +72,11 @@ app.MapRazorComponents<App>()
 
 // Add additional endpoints required by the Identity /Account Razor components.
 app.MapAdditionalIdentityEndpoints();
+
+app.MapGet("/db-ping", async (projSQLContext db, CancellationToken ct) =>
+{
+    await db.Database.ExecuteSqlRawAsync("SELECT 1", cancellationToken: ct);
+    return Results.Ok(new { ok = true });
+});
 
 app.Run();

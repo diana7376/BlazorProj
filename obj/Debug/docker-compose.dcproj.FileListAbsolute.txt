@@ -1,0 +1,2 @@
+D:\Projects\Practica_anul3_1\proj\bin\Debug\proj.dll
+D:\Projects\Practica_anul3_1\proj\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

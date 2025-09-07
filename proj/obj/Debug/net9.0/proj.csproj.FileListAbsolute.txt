@@ -1,0 +1,8 @@
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.csproj.AssemblyReference.cache
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.AssemblyInfoInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.AssemblyInfo.cs
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.csproj.CoreCompileInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Practica_anul3_1\proj\proj\obj\Debug\net9.0\proj.sourcelink.json

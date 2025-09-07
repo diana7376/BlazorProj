@@ -52,11 +52,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",

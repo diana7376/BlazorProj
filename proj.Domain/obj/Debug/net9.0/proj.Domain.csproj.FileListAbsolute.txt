@@ -1,0 +1,12 @@
+D:\Projects\Practica_anul3_1\proj\proj.Domain\bin\Debug\net9.0\proj.Domain.deps.json
+D:\Projects\Practica_anul3_1\proj\proj.Domain\bin\Debug\net9.0\proj.Domain.dll
+D:\Projects\Practica_anul3_1\proj\proj.Domain\bin\Debug\net9.0\proj.Domain.pdb
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.AssemblyInfoInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.AssemblyInfo.cs
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.sourcelink.json
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.dll
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\refint\proj.Domain.dll
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\proj.Domain.pdb
+D:\Projects\Practica_anul3_1\proj\proj.Domain\obj\Debug\net9.0\ref\proj.Domain.dll
